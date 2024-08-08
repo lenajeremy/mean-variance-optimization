@@ -1,0 +1,2 @@
+export const NIGERIA_RISK_FREE_RATE  = 13.9
+export const DEFAULT_FLOAT_PRECISION = 5
